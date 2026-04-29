@@ -1,21 +1,27 @@
-# Conversor de temperatura
+# 🌡️ Temperature Converter
 
-Esse é um projeto simples que realiza a conversão de temperatura de Celsius para Fahrenheit utilizando JavaScript.
+Simple web application that converts temperature from Celsius to Fahrenheit using JavaScript.
 
-## Preview do projeto
+## 📸 Project Preview
 
-![Preview do projeto](preview.png)
+![Project Preview](preview.png)
 
-## Tecnologias utilizadas
+## 🛠️ Technologies
 
 - HTML
 - CSS
 - JavaScript
 
-## Objetivo do projeto
+## ⚙️ Features
 
-Criar uma página web simples que calcule a conversão da temperatura de Celsius para Fahrenheit utilizando HTML, CSS e JavaScript. Esse é um projeto que exercita a manipulação de DOM e lógica básica com JavaScript.
+- Convert temperature from Celsius to Fahrenheit  
+- Instant calculation using JavaScript  
+- Simple and clean user interface  
 
-## Autor
+## 🎯 Project Goal
+
+Practice basic JavaScript logic and DOM manipulation by building a simple and functional temperature converter.
+
+## 👨‍💻 Author
 
 Luis Francisco
